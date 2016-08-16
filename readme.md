@@ -1,13 +1,20 @@
-# tdd-practice
+# study-tdd
 
-### Repository for studying and practicing about Test Drive Development.
-#### Language : Java
-#### Test Lib : junit + hamcrast
+#### Repository for studying and practicing about Test Drive Development. It is started from June 28th, 2016.
+* Language : Java
+* Test Lib : junit + hamcrast
 
-## Created by
-#### [Jisung Lim](https://github.com/jisunglim)
+Created by
+----------
+### [Jay Lim](https://github.com/jisunglim)
 
-## Reference
-#### [테스트 주도 개발 TDD 실천법과 도구](http://www.hanbit.co.kr/store/books/look.php?p_code=B3818551654)
+##### B.S. Candidate in industrial engineering
+##### Yonsei University, South Korea
 
-## This project is on-going practice since June 2016.
+Reference
+---------
+### [테스트 주도 개발 TDD 실천법과 도구](http://www.hanbit.co.kr/store/books/look.php?p_code=B3818551654)
+
+Version
+-------
+### v1.0-SNAPSHOT (since 2016.06.28)

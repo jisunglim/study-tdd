@@ -1,4 +1,4 @@
-package main;
+package io.jaylim.study.tdd.bankbiz;
 
 /**
  * Use JUnit 3. Created by Jisung on 7/8/2016.

@@ -1,4 +1,4 @@
-package main;
+package io.jaylim.study.tdd.bankbiz;
 
 import junit.framework.TestCase;
 

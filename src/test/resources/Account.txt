@@ -1,0 +1,18 @@
+Class name : main.Account.java
+
+
+Functions
+1. check balance (FINISHED)
+  - Create Account with 10000 WON
+  - Confirm the balance checking
+
+2. deposit / withdrawal (FINISHED)
+  - Create Account with 10000 WON
+  - Deposit 1000 WON / Withdrawal 1000 WON
+  - Check the balance whether it has 11000 WON / 9000 WON
+
+
+
+Remarks
+1. currency unit : 1 KRW
+2.

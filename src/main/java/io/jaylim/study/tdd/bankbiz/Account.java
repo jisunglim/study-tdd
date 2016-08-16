@@ -1,4 +1,4 @@
-package main;
+package io.jaylim.study.tdd.bankbiz;
 
 /**
  * 1.2 Test Driven Development. (p.32)
